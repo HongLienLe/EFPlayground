@@ -1,0 +1,6 @@
+/Users/hongle/Projects/EFPlayground/EfPlayGround/obj/Release/netcoreapp2.2/EfPlayGround.csprojAssemblyReference.cache
+/Users/hongle/Projects/EFPlayground/EfPlayGround/obj/Release/netcoreapp2.2/EfPlayGround.csproj.CoreCompileInputs.cache
+/Users/hongle/Projects/EFPlayground/EfPlayGround/obj/Release/netcoreapp2.2/EfPlayGround.RazorAssemblyInfo.cache
+/Users/hongle/Projects/EFPlayground/EfPlayGround/obj/Release/netcoreapp2.2/EfPlayGround.RazorAssemblyInfo.cs
+/Users/hongle/Projects/EFPlayground/EfPlayGround/obj/Release/netcoreapp2.2/EfPlayGround.AssemblyInfoInputs.cache
+/Users/hongle/Projects/EFPlayground/EfPlayGround/obj/Release/netcoreapp2.2/EfPlayGround.AssemblyInfo.cs
